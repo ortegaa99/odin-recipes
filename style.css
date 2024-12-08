@@ -1,0 +1,25 @@
+h1, p {
+text-align: center;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h1 {
+font-size: 80px;
+text-shadow: 3px 3px 5px #7aceff;
+font-family: 'Chewy', cursive;
+color: rgb(4, 133, 172);
+}
+
+p {
+font-size: 25px;
+}
+
+div {
+    border: dotted 2px black;
+    margin: auto 500px;
+
+}
+
+body {
+    background: #ffd7aa;
+}
